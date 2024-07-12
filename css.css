@@ -1,0 +1,42 @@
+body{
+
+background: url(facb0af9b5dd674dfe906dfcbfc753c9.jpg);
+
+
+
+
+}
+
+#score{
+
+    color: gray;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#hero{
+background: url(hero.png);
+width: 154px;
+height: 154px;
+position: absolute;
+top: 800px;
+left: 880px;
+
+}
+
+.enemy{
+    background: url(space-invaders-.png);
+    width: 98px;
+    height: 98px;
+    position: absolute;
+    
+}
+.missile{
+
+background: url(bullet.png);
+width: 73px ;
+height: 73px;
+position: absolute;
+
+}
